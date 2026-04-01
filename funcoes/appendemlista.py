@@ -11,3 +11,8 @@ digite a altura em cm do aluno 2: 193
 1 alunos com mais de 13 anos tem altura abaixo da media.
 """
 
+idades = []
+altura = []
+
+for id in range(30):
+    
